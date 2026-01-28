@@ -1,7 +1,7 @@
 
 # Dark Theme Production Tracker
 
-Live Demo: https://YOUR-NETLIFY-URL.netlify.app
+Live Demo: https://cod-production-tracker.netlify.app/
 
 A production tracker dashboard built with React, Vite, and Tailwind CSS.
 
