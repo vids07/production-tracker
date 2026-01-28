@@ -1,11 +1,28 @@
 
-  # Dark Theme Production Tracker
+# Dark Theme Production Tracker
 
-  This is a code bundle for Dark Theme Production Tracker. The original project is available at https://www.figma.com/design/h6cyAnDoM7GV3ZE4Z2KK9I/Dark-Theme-Production-Tracker.
+Live Demo: https://YOUR-NETLIFY-URL.netlify.app
 
-  ## Running the code
+A production tracker dashboard built with React, Vite, and Tailwind CSS.
 
-  Run `npm i` to install the dependencies.
+## Tech Stack
+- React
+- Vite
+- TypeScript
+- Tailwind CSS
+- shadcn/ui
 
-  Run `npm run dev` to start the development server.
-  
+## Features
+- Dark theme dashboard UI
+- Component-based architecture
+- Responsive layout
+- Deployed on Netlify
+
+## Getting Started
+
+npm install  
+npm run dev  
+
+## Deployment
+
+Built with Vite and deployed using Netlify.
